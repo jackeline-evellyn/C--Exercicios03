@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exerciciosFixacao05_EstruturaRepeticao_For1", "exerciciosFixacao05_EstruturaRepeticao_For1\exerciciosFixacao05_EstruturaRepeticao_For1.csproj", "{A9BA02D9-E0E9-46FF-8B10-E6E0795A5DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9BA02D9-E0E9-46FF-8B10-E6E0795A5DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BA02D9-E0E9-46FF-8B10-E6E0795A5DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BA02D9-E0E9-46FF-8B10-E6E0795A5DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BA02D9-E0E9-46FF-8B10-E6E0795A5DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D3D0635-D13B-48ED-B54B-0A1B193610B7}
+	EndGlobalSection
+EndGlobal
